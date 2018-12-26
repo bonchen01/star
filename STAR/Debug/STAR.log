@@ -1,0 +1,31 @@
+﻿  stdafx.cpp
+  Source.cpp
+h:\opengl\star_1217\star\star\source.cpp(18): warning C4273: '__glewAttachShader': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19980): note: see previous definition of '__glewAttachShader'
+h:\opengl\star_1217\star\star\source.cpp(19): warning C4273: '__glewShaderSource': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(20011): note: see previous definition of '__glewShaderSource'
+h:\opengl\star_1217\star\star\source.cpp(20): warning C4273: '__glewCompileShader': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19983): note: see previous definition of '__glewCompileShader'
+h:\opengl\star_1217\star\star\source.cpp(21): warning C4273: '__glewCreateProgram': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19984): note: see previous definition of '__glewCreateProgram'
+h:\opengl\star_1217\star\star\source.cpp(22): warning C4273: '__glewCreateShader': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19985): note: see previous definition of '__glewCreateShader'
+h:\opengl\star_1217\star\star\source.cpp(23): warning C4273: '__glewLinkProgram': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(20010): note: see previous definition of '__glewLinkProgram'
+h:\opengl\star_1217\star\star\source.cpp(24): warning C4273: '__glewUseProgram': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(20034): note: see previous definition of '__glewUseProgram'
+h:\opengl\star_1217\star\star\source.cpp(25): warning C4273: '__glewGetShaderiv': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(20000): note: see previous definition of '__glewGetShaderiv'
+h:\opengl\star_1217\star\star\source.cpp(26): warning C4273: '__glewGetShaderInfoLog': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19998): note: see previous definition of '__glewGetShaderInfoLog'
+h:\opengl\star_1217\star\star\source.cpp(27): warning C4273: '__glewGetProgramiv': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19997): note: see previous definition of '__glewGetProgramiv'
+h:\opengl\star_1217\star\star\source.cpp(28): warning C4273: '__glewGetProgramInfoLog': inconsistent dll linkage
+  c:\program files (x86)\windows kits\8.1\include\um\gl\glew.h(19996): note: see previous definition of '__glewGetProgramInfoLog'
+h:\opengl\star_1217\star\star\source.cpp(181): warning C4101: 'ps': unreferenced local variable
+h:\opengl\star_1217\star\star\source.cpp(205): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+h:\opengl\star_1217\star\star\source.cpp(298): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+h:\opengl\star_1217\star\star\source.cpp(300): warning C4305: '=': truncation from 'double' to 'GLfloat'
+     Creating library H:\openGL\STAR_1217\STAR\Debug\STAR.lib and object H:\openGL\STAR_1217\STAR\Debug\STAR.exp
+  STAR.vcxproj -> H:\openGL\STAR_1217\STAR\Debug\STAR.exe
+  STAR.vcxproj -> H:\openGL\STAR_1217\STAR\Debug\STAR.pdb (Full PDB)

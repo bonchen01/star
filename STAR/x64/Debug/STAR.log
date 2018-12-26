@@ -1,0 +1,8 @@
+﻿     Creating library H:\openGL\STAR_1217\STAR\x64\Debug\STAR.lib and object H:\openGL\STAR_1217\STAR\x64\Debug\STAR.exp
+Source.obj : error LNK2019: unresolved external symbol __imp_glewInit referenced in function WinMain
+Source.obj : error LNK2001: unresolved external symbol __imp___glewGetUniformLocation
+Source.obj : error LNK2001: unresolved external symbol __imp___glewUniform1f
+Source.obj : error LNK2001: unresolved external symbol __imp___glewUniform2f
+freeglutd.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+glew32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+H:\openGL\STAR_1217\STAR\x64\Debug\STAR.exe : fatal error LNK1120: 4 unresolved externals
